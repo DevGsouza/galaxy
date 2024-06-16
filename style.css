@@ -51,7 +51,7 @@ main {
     background-color: #202024;
 
     border-radius: .8rem;
-    border: 2px solid #323238;
+    border: 3px solid #323238;
 }
 
 h2 {
@@ -74,4 +74,3 @@ img {
     border-radius: .8rem .8rem 0 0;
     width: 100%;
 }
-
